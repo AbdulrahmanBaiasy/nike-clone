@@ -31,11 +31,19 @@ git clone https://github.com/AbdulrahmanBaiasy/nike-clone.git
 cd nike_landing_page
 ```
 
-**Running the Project**
+## Installation
+
+```bash
+npm install
+```
+
+## Running the Project
 
 ```bash
 npm start
 ```
+
+
 
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
